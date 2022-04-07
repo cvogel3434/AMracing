@@ -1,0 +1,24 @@
+{
+  "name": "racemonitor",
+  "version": "1.0.0",
+  "description": "Race Monitor",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "rm":"electron"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cvogel3434/AMracing.git"
+  },
+  "author": "cmv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cvogel3434/AMracing/issues"
+  },
+  "homepage": "https://github.com/cvogel3434/AMracing#readme",
+  "dependencies": {
+    "electron": "^18.0.3",
+    "jquery": "^3.6.0"
+  }
+}
